@@ -1,6 +1,15 @@
+
 export const Paths = {
     login: 'login',
     auth: 'auth',
-    home: 'home',
+    signup: 'signup',
     products: 'products',
+    home: 'home',
+    users: 'users',
+    userEdit: "user/edit",
+    userDetails: "user/details",
+    shoppingLists: "shopping-lists",
+    ProductPage: "ProductPage",
+    BestStorePage: "BestStorePage",
+    forgotPassword: 'forgot-password'
 }
